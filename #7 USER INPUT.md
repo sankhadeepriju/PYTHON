@@ -33,7 +33,7 @@ So, to have such control we can make use of **index value** to print our desired
 ch=input('Enter a char')
 print(ch[0])
 ```
-**SMARTER METHOD:**
+>**SMARTER METHOD:**
 ```
 ch=input('Enter a char')[0]
 print(ch)
