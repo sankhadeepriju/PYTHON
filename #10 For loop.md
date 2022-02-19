@@ -78,9 +78,9 @@ lst3 = lst[1:8:2]
 
 ### List comprehension method
 
-In python, if we create a lst and try to assign it to another variable, the address of the variable is assignd to the new varible. So if we try to change the value of element in the new list, the value from original list will also be changed.
+In python, if we create a list and try to assign it to another variable, the address of the variable is assignd to the new variable. So if we try to change the value of element in the new list, the value from original list will also be changed.
 
-Pracical example:
+Practical example:
 <img align='right' src='imgs/ListComprehensionMethod.png' height=160>
 
 ```
@@ -89,8 +89,7 @@ lst1 = lst
 lst1[0] = 5
 print(lst) # output: [5, 2, 3, 4]
 ```
-
-so we use list comprehension method, to easily copy a list from another, except list comprehension method is not fast compared to other methods, but easy.
+So, we use list comprehension method to easily copy a list from another, except list comprehension method is not fast compared to other methods, but easy.
 ```
 lst = [1, 2, 3, 4]
 lst1 = [i for i in lst]
