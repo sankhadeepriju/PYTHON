@@ -39,3 +39,11 @@ ___
         print() 
         #to force the cursor to move to the next line after #each iteration of the outer loop.*/
 ```
+```
+#output
+ HAPPY  BIRTHDAY  BIRTHDAY  BIRTHDAY  BIRTHDAY 
+ HAPPY  BIRTHDAY  BIRTHDAY  BIRTHDAY  BIRTHDAY 
+ HAPPY  BIRTHDAY  BIRTHDAY  BIRTHDAY  BIRTHDAY 
+ HAPPY  BIRTHDAY  BIRTHDAY  BIRTHDAY  BIRTHDAY 
+ HAPPY  BIRTHDAY  BIRTHDAY  BIRTHDAY  BIRTHDAY
+ ```
