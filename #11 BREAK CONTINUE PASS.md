@@ -48,6 +48,7 @@ print('bye')
 ---
 >**PASS**:
 <p>The pass statement is used in an empty block when we have nothing to write.
+
 ```
 for i in range(1,11):
     if(i%2!=0):
