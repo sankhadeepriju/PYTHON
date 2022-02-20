@@ -54,4 +54,5 @@ for i in range(4):
         print('#',end='')
     t-=1
     print()
+print("END")
 ```
